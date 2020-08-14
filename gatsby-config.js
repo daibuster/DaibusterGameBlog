@@ -50,7 +50,6 @@ module.exports = {
   ],
 }
 
-
 // echo "# DaibusterGameBlog" >> README.md
 // git init
 // git add README.md
