@@ -8,6 +8,7 @@ module.exports = {
     author: "DaibusterGames",
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
