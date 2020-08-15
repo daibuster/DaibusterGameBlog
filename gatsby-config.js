@@ -1,4 +1,12 @@
 module.exports = {
+  siteMetadata: {
+    title: "Daibuster Gaming Blog",
+    description: "フォートナイト上手くなりたいDaibusterが、上達の様子を綴るブログ。GatsbyJS + MDX らしい。",
+    url: "https://daibuster.com",
+    image: "/gaming.jpg",
+    twitterUsername: "@Dai_buster",
+    author: "DaibusterGames",
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
